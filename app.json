@@ -1,0 +1,5 @@
+{
+    "name":"Cacao Detection",
+    "description":"Cacao detector using TensorFlow Object Detection API",
+    "keywords":["python","flask","TensorFlow"]
+}
